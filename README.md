@@ -6,7 +6,7 @@
 
 I'm a fourth grade computer science student, currently working & learning JavaScript and Python development,  also writing to build a better community. :blush:
 
-I'm a extrovert person so you can contact me whenever you need, we can discuss and chat everything :smiley: 
+I'm an extrovert person so you can contact me whenever you need, we can discuss and chat everything :smiley: 
 
 <h3 align="center">
  :rocket: :arrow_down: Other platforms :arrow_down: :rocket:
