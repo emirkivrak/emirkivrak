@@ -8,9 +8,9 @@ I'm a fourth grade computer science student, currently working & learning JavaSc
 
 I'm a extrovert person so you can contact me whenever you need, we can discuss and chat everything :smiley: 
 
-<h3 align="center">
- :rocket: :arrow_down: Other platforms :arrow_down: :rocket:
-</h2> 
+
+ ## :rocket: :arrow_down: Other platforms :arrow_down: :rocket:
+
 
 Connect me on [LinkedIn](https://www.linkedin.com/in/emirkivrak/ "Emir Kıvrak LinkedIN")  :necktie:
 
