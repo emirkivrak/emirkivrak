@@ -14,7 +14,7 @@ I'm an extrovert person so you can contact me whenever you need, we can discuss 
 
 Connect me on [LinkedIn](https://www.linkedin.com/in/emirkivrak/ "Emir Kıvrak LinkedIN")  :necktie:
 
-Take a look at my page on [Medium](https://www.linkedin.com/in/emirkivrak/ "Emir Kıvrak LinkedIN") :newspaper:
+Take a look at my page on [Medium](https://medium.com/@emirccus "Emir Kıvrak Medium") :newspaper:
 
 Write a mail :mailbox_with_no_mail: : emirccus@gmail.com
 
