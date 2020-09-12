@@ -3,7 +3,7 @@
   Hi there
 </h2>
 
-<img src="https://media4.giphy.com/media/RhrAmVUHxjTQvEPBWi/giphy.gif" width="200" height="200" />
+<img src="https://github.com/emirkivrak/emirkivrak/blob/master/giphy.gif?raw=true" width="200" height="200" />
 
 
 
