@@ -3,9 +3,7 @@
   Hi there
 </h2>
 
-
-
-![hi](giphy.gif)
+<img src="giphy.gif" width="200" height="200" />
 
 
 
